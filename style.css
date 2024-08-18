@@ -19,7 +19,7 @@
 
 .courseEnd .h2 {
   width: calc(27.6vw + 224.409px);
-  font-family: "TTHoves-Regular";
+  font-family: "TTHoves-Black";
   font-size: calc(2.7vw + 24.055px);
   font-weight: 500;
   line-height: 118%;
@@ -28,7 +28,7 @@
 
 .courseEnd .paragraph {
   width: calc(20.6vw + 250.928px);
-  font-family: "TTHoves-Regular";
+  font-family: "TTHoves-Black";
   font-size: calc(1vw + 14.271px);
   font-weight: 400;
   line-height: 140%;
@@ -46,7 +46,7 @@
 
 .how_much {
   width: calc(44.3vw + 161.84px);
-  font-family: "TTHoves-Regular";
+  font-family: "TTHoves-Black";
   font-size: calc(2.7vw + 24.055px);
   font-weight: 500;
   line-height: 118%;
@@ -55,14 +55,14 @@
 .cash_p {
   margin-top: calc(2.2vw + 11.713px);
   width: calc(60.6vw + 100.928px);
-  font-family: "TTHoves-Regular";
+  font-family: "TTHoves-Black";
   font-size: calc(1vw + 14.271px);
   font-weight: 400;
   line-height: 140%;
 }
 
 .cash_span {
-  font-family: "TTHoves-Regular";
+  font-family: "TTHoves-Black";
   font-size: calc(1vw + 14.271px);
   font-weight: 700;
   line-height: 140%;
@@ -90,7 +90,7 @@
   min-width: 328px;
   margin-right: calc(10.1vw - 13.707px);
   margin-left: calc(34.7vw - 107.11px);
-  font-family: "TTHoves-Regular";
+  font-family: "TTHoves-Black";
   font-size: calc(2.7vw + 24.055px);
   font-weight: 500;
   line-height: 118%;
@@ -116,7 +116,7 @@
 
 .plyushechka1 {
   width: calc(21.7vw + 246.785px);
-  font-family: "TTHoves-Regular";
+  font-family: "TTHoves-Black";
   font-size: calc(0.3vw + 16.757px);
   font-weight: 400;
   line-height: 140%;
@@ -124,7 +124,7 @@
 
 .plyushechka2 {
   width: calc(16.6vw + 265.845px);
-  font-family: "TTHoves-Regular";
+  font-family: "TTHoves-Black";
   font-size: calc(0.3vw + 16.757px);
   font-weight: 400;
   line-height: 140%;
@@ -132,7 +132,7 @@
 
 .plyushechka3 {
   width: calc(21.2vw + 248.442px);
-  font-family: "TTHoves-Regular";
+  font-family: "TTHoves-Black";
   font-size: calc(0.3vw + 16.757px);
   font-weight: 400;
   line-height: 140%;
